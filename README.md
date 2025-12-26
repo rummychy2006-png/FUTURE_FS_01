@@ -3,8 +3,8 @@
 # Personal Portfolio Website
 
 📝 **Project Overview**  
-This project is my **Personal Portfolio Website**, developed as **Task 1** during my internship at **Future Intern**.  
-The aim of this task was to create a portfolio website to showcase my **education, skills, and personal details** using HTML and CSS.
+This project is a **Personal Portfolio Website**, developed as **Task 1** during my internship at **Future Intern**.  
+The main objective of this task was to create a portfolio website to showcase my **education, skills, and personal details** using HTML and CSS.
 
 ---
 
